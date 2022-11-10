@@ -18,6 +18,7 @@ namespace WebApplication1
     {
 
         [WebMethod]
+        //Webmethod que retorna o nome do aluno e o número do RU(3602435)
         public string NomeRU()
         {
             return "NOME: Gustavo Ottoboni RU: 3602435";
@@ -25,7 +26,9 @@ namespace WebApplication1
 
         
         [WebMethod]
-        //3602435
+        //Webmethod que verifica se as condições de cálculo para os lados de um triângulo retângulo
+        //utilizando os três últimos dígitos do RU: 3602435 são verdadeiras e 
+        //Retorna uma mensagem de sucesso
         public string CalcPitagoras(double a, double b, double c)
         {
             double hipotenusa = Math.Pow(c, 2);

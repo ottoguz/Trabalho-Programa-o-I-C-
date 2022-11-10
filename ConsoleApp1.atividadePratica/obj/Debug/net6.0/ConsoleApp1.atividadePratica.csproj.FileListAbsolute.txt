@@ -1,0 +1,15 @@
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\bin\Debug\net6.0\ConsoleApp1.atividadePratica.exe
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\bin\Debug\net6.0\ConsoleApp1.atividadePratica.deps.json
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\bin\Debug\net6.0\ConsoleApp1.atividadePratica.runtimeconfig.json
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\bin\Debug\net6.0\ConsoleApp1.atividadePratica.dll
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\bin\Debug\net6.0\ConsoleApp1.atividadePratica.pdb
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.csproj.AssemblyReference.cache
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.AssemblyInfoInputs.cache
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.AssemblyInfo.cs
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.csproj.CoreCompileInputs.cache
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.dll
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\refint\ConsoleApp1.atividadePratica.dll
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.pdb
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ConsoleApp1.atividadePratica.genruntimeconfig.cache
+D:\Backup (1)\Windows\Software Engineering\programação I\atividade prática\atividadePratica\ConsoleApp1.atividadePratica\obj\Debug\net6.0\ref\ConsoleApp1.atividadePratica.dll
